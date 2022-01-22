@@ -1,0 +1,9 @@
+.idea
+.vagrant
+node_modules
+.pyc
+experiments
+img
+.lock
+Dockerfile
+.code-workspace
